@@ -1,0 +1,8 @@
+# Игнорировать временные файлы Visual Studio
+.vs/
+.vscode/
+# Игнорировать файлы настроек
+*.user
+*.userosscache
+*.suo
+*.userprefs
