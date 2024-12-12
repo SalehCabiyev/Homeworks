@@ -1,0 +1,9 @@
+# ninja log v6
+42	1757	7535461323912724	CMakeFiles/untitled27.dir/main.cpp.obj	6a1be2621ee10f3c
+284	696	7535516865754567	untitled27.exe	af971657d6b0362b
+45	283	7535516863369042	CMakeFiles/untitled27.dir/Character.cpp.obj	e2b4e22e6b989081
+67	3080	7536256726928935	CMakeFiles/untitled27.dir/Character.cpp.obj	e2b4e22e6b989081
+74	3109	7536256727009659	CMakeFiles/untitled27.dir/Tank.cpp.obj	590cc76a50d50dd8
+112	3120	7536256727389019	CMakeFiles/untitled27.dir/Mage.cpp.obj	b7cc5f54f0329fe2
+3081	4011	7536256757076037	CMakeFiles/untitled27.dir/Thief.cpp.obj	aef58b3aaf3fd314
+4011	5452	7536256766375939	untitled27.exe	7b1cf42192fa5d3a
