@@ -1,0 +1,5 @@
+{
+    "Connectionstrings": {
+        "Default": "Data Source=localhost ;Initial Catalog=CarDealership;Integrated Security=True;Trust Server Certificate=true;"
+    }
+}
