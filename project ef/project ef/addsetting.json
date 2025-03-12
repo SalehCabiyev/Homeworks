@@ -1,0 +1,6 @@
+{
+    "Connectionstrings": {
+        "Default": "Data Source=localhost;Database=AutoServiceApp;Integrated Security=True;Trust Server Certificate=true;"
+
+    }
+}
