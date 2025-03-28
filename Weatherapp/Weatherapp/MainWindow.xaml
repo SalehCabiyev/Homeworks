@@ -1,0 +1,16 @@
+﻿<Window x:Class="Weatherapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Weatherapp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="CityTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,10,0,0"/>
+        <Button Content="Получить  погоду" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="220,10,0,0" Click="OnGetWeatherClick"/>
+        <Label  x:Name="WeatherLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0" FontSize="16"/>
+        <Label x:Name="ErrorLabel" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0" Foreground="Red" />
+        
+    </Grid>
+</Window>
