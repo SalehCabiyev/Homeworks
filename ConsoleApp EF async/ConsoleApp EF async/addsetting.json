@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+
+        "Default":"Data Source=localhost;Database=School;Integrated Security=True;Trust Server Certificate=True;"
+    }
+}
