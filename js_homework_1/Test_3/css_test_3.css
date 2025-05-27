@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+#field {
+    
+    
+  position: relative;
+  width: 90vw;
+  height: 90vh;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/f/f3/Football_field_105x68.PNG") no-repeat center center;
+  background-size: cover;
+  cursor: crosshair;
+  border-bottom: 3px solid white;
+  border-top: 3px solid white;
+  
+}
+
+#ball {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: url("https://pngimg.com/uploads/football/football_PNG52789.png") no-repeat center;
+  background-size: contain;
+  transition: left 0.5s ease, top 0.5s ease;
+}
+#outfield {
+    
+    padding: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+       
+    
+    background-color: rgba(23, 165, 5, 0.829);
+    background-size: cover;
+}
