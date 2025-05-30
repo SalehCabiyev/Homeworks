@@ -1,0 +1,17 @@
+[
+  {
+    "email": "saleh.cabiyev.a@icloud.com",
+    "password": "$2b$10$MyBCtlc3aOeuqtCEc6JGh.eH5zYYOJV8BSsXhgVVvZWoamBG6LX8a",
+    "name": "Saleh",
+    "coords": {
+      "lat": 55.73732985375626,
+      "lng": 37.610183253906236
+    }
+  },
+  {
+    "email": "",
+    "password": "$2b$10$9Jo0fgPmJokwAfJSs205Au8nbZcffroX5W9DLK5UftaOqEJdg6XX2",
+    "name": "",
+    "coords": null
+  }
+]
