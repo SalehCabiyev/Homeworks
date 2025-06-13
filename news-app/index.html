@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Новости</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Новости</h1>
+    <select id="category"></select>
+    <div id="loader" class="hidden">Загрузка...</div>
+    <div id="error" class="error hidden"></div>
+    <div id="news-list"></div>
+    <div class="pagination">
+      <button id="prev">Назад</button>
+      <span id="page-info"></span>
+      <button id="next">Вперёд</button>
+    </div>
+  </div>
+  <script type="module" src="dist/app.js"></script>
+</body>
+</html>
