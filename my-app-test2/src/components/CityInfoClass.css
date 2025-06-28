@@ -1,0 +1,22 @@
+.city-card{
+    border: 1px solid#ccc;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.images img{
+    width: 250px;
+    border-radius: 10px;
+    margin: 10px;
+    height: auto;
+   
+}
